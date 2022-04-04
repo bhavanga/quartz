@@ -1,7 +1,7 @@
 ---
 title: "A busca pelo despertar"
 ---
-[CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO](tópicos/CAPÍTULO%201%20-%20A%20VIDA%20DO%20BUDDHA%20HISTÓRICO.md)
+[[CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO]]
 
 **A busca pelo despertar**
 

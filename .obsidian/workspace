@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/Atingindo estados refinados, sem forma.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Atingindo estados refinados, sem forma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Atingindo estados refinados, sem forma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +120,13 @@
   },
   "active": "8acd9a454186957c",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/A vida ascética de rigorosa autonegação.md",
+    "content/Atingindo estados refinados, sem forma.md",
     "content/CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
+    "content/_index.md",
+    "content/notes/editing.md",
+    "content/notes/custom Domain.md",
+    "content/notes/config.md",
+    "content/A vida ascética de rigorosa autonegação.md",
     "content/Concepção, nascimento e juventude.md"
   ]
 }
