@@ -1,19 +1,17 @@
 ---
-title: "☸ Tipitaka"
+title: ☸ Tipitaka
 ---
   
 
 # TBC
 
-## PARTE I: O BUDDHA
+PARTE I: O BUDDHA
 
-### [CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO](content/CAPÍTULO%201%20-%20A%20VIDA%20DO%20BUDDHA%20HISTÓRICO.md)
+[CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO](content/CAPÍTULO%201%20-%20A%20VIDA%20DO%20BUDDHA%20HISTÓRICO.md)
 
+CAPÍTULO 2 - DIFERENTES PERSPECTIVAS SOBRE O BUDDHA
 
-
-### CAPÍTULO 2 - DIFERENTES PERSPECTIVAS SOBRE O BUDDHA
-
-### [A vida ascética de rigorosa autonegação](content/A%20vida%20ascética%20de%20rigorosa%20autonegação.md) 
+[A vida ascética de rigorosa autonegação](content/A%20vida%20ascética%20de%20rigorosa%20autonegação.md) 
 
 CAPÍTULO 3 - CARACTERÍSTICAS DOS ENSINAMENTOS
 
