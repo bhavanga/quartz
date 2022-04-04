@@ -45,7 +45,7 @@ Quando foi libertado, veio o conhecimento: “Isto está libertado”. Eu soube 
 
 Aggivessana, esse foi o terceiro conhecimento verdadeiro alcançado por mim na última vigília da noite. A ignorância foi banida e o conhecimento verdadeiro surgiu, a escuridão foi banida e a luz surgiu, como acontece em quem vive de modo diligente, ardente e resoluto. Mas tal sensação agradável que surgiu em mim não invadiu minha mente e permaneceu.
 
-*Mahā-saccaka Sutta: Majjhima Nikāya I.246--249, trad. G.A.S.*
+*[[Mahā-saccaka Sutta]]: [[Majjhima Nikāya]] I.246--249, trad. G.A.S.*
 
 **Vi.16 Alegria ao encontrar o fim do vagar de vida em vida**
 
@@ -55,7 +55,7 @@ Por muitos nascimentos vaguei no saṃsāra [^cf4], buscando, mas não encontran
 
 Ó construtor da casa! Você foi visto. Você não mais construirá uma casa. Todos seus caibros foram quebrados. Seu pilar foi despedaçado. A mente está livre das construções volitivas. Obtida é a destruição do desejo sedento.
 
-*Dhammapada 153--154, trad. G.A.S.*
+*[[Dhammapada]] 153--154, trad. G.A.S.*
 
 **Vi.17 Atingir o nirvāṇa ao alcançar o despertar/iluminação**
 
@@ -67,7 +67,7 @@ Monges, então sendo eu mesmo sujeito ao nascimento, tendo entendido o perigo no
 
 O entendimento e a visão surgiram em mim: “Minha libertação é inabalável. Este é o meu último nascimento. Agora não há mais repetição de ser”.
 
-*Ariya-pariyesana Sutta: Majjhima Nikāya I.166--167, trad. G.A.S. *
+*[[Ariya-pariyesana Sutta]]: [[Majjhima Nikāya]] I.166--167, trad. G.A.S. *
 
 **Vi.18 A redescoberta de um caminho antigo**
 
@@ -81,7 +81,7 @@ Segui esse caminho e, ao fazê-lo, tenho conhecido diretamente o envelhecimento 
 
 Tendo conhecido-os diretamente, expliquei-os aos monges, às monjas, aos seguidores laicos homens e mulheres. Monges, esta vida santa tornou-se bem sucedida e próspera, estendida, popular, generalizada, bem proclamada entre deidades e humanos.
 
-*Nagara Sutta: Saṃyutta Nikāya II.105--107, trad. G.A.S.*
+*Nagara Sutta: [[Saṃyutta Nikāya]] II.105--107, trad. G.A.S.*
 
 **Vi.19 Honrando o Dhamma**
 
@@ -105,7 +105,7 @@ Todos viveram, viverão, vivem reverenciando profundamente o verdadeiro Dhamma. 
 
 Portanto, aquele que deseja seu próprio bem, aspirando à grandeza, deve respeitar profundamente o verdadeiro Dhamma, lembrando-se do ensinamento dos Buddhas”.
 
-*Gārava Sutta: Saṃyutta Nikāya I.138--140 \<304--306\>*,[^cf6] *trad. G.A.S.*
+*Gārava Sutta: [[Saṃyutta Nikāya]] I.138--140 \<304--306\>*,[^cf6] *trad. G.A.S.*
 
 [^cf1]:  Que mais tarde se tornaram os primeiros discípulos do Buddha, uma vez que tiveram a sorte de ser seu público no seu primeiro discurso.
 
