@@ -1,14 +1,13 @@
-name: Jacky Zhao
+name: Ricardo Sasaki
 enableToc: true
 enableLinkPreview: true
 enableLatex: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Os ensinamentos autênticos do Buddha Sakyamuni foram preservados por linhagens de monges recitadores, primeiramente de forma oral e, mais tarde, na forma escrita.
 page_title:
-  "🪴 Quartz 3.2"
+  "☸ Tipitaka - a riqueza do Cânone em suas mãos"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/centronalanda
+  - link_name: Website
+    link: https://nalanda.org.br
