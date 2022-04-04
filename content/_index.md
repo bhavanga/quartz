@@ -1,6 +1,26 @@
 ---
-title: 🪴 Quartz 3.2
+title: "☸ Tipitaka"
 ---
+  
+
+# TBC
+
+## PARTE I: O BUDDHA
+
+### [CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO](content/CAPÍTULO%201%20-%20A%20VIDA%20DO%20BUDDHA%20HISTÓRICO.md)
+
+  
+
+CAPÍTULO 2 - DIFERENTES PERSPECTIVAS SOBRE O BUDDHA
+
+  
+
+CAPÍTULO 3 - CARACTERÍSTICAS DOS ENSINAMENTOS
+
+  
+
+---
+
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
