@@ -8,3 +8,4 @@ CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO
 - [A busca pelo despertar](A%20busca%20pelo%20despertar.md)
 - [Atingindo estados refinados, sem forma](Atingindo%20estados%20refinados,%20sem%20forma.md)
 - [A vida ascética de rigorosa autonegação](A%20vida%20ascética%20de%20rigorosa%20autonegação.md)
+- [O despertar e depois disso](Capítulo%201/O%20despertar%20e%20depois%20disso.md)
