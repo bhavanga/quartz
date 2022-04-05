@@ -1,4 +1,12 @@
-Atingindo estados refinados, sem forma
+---
+title: "Atingindo estados refinados, sem forma"
+---
+
+
+Atingindo estados grosseirissims
+
+[A relação do Buddha com o Dhamma](A%20relação%20do%20Buddha%20com%20o%20Dhamma.md)
+
 Em sua busca espiritual, Gotama primeiramente se aproximou de dois professores que lhe ensinaram como atingir dois estados místicos sem forma, para além da percepção das coisas físicas, que mais tarde ele incorporou em seu próprio ensinamento. Nas passagens seguintes, porém, a limitação deles em levar ao seu objetivo é o que é enfatizado.
 
 Vi.10 A “esfera do nada” ensinada por Āḷāra Kālāma

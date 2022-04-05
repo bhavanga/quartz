@@ -45,7 +45,7 @@ Hugo is picky when it comes to metadata for files. Make sure that your title is 
 
 ```markdown
 ---
-title: "Example Title"
+title: "[Example Title](Example%20Title.md)"
 tags:
 - example-tag
 enableToc: false # do not show a table of contents on this page
