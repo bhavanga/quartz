@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A vida ascética de rigorosa autonegação.md",
+            "file": "notes/troubleshooting.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A vida ascética de rigorosa autonegação.md",
+                "file": "notes/troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "bf17311dea5ea95b",
   "lastOpenFiles": [
-    "A vida ascética de rigorosa autonegação.md",
-    "Majjhima Nikāya.md",
-    "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
-    "_index.md",
-    "private/private-note.md",
-    "notes/showcase.md",
+    "notes/troubleshooting.md",
     "notes/setup.md",
     "notes/preview changes.md",
     "notes/editing.md",
-    "Atingindo estados refinados, sem forma.md"
+    "notes/custom Domain.md",
+    "notes/config.md",
+    "A vida ascética de rigorosa autonegação.md",
+    "Majjhima Nikāya.md",
+    "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
+    "_index.md"
   ]
 }
