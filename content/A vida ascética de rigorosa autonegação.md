@@ -1,7 +1,7 @@
 ---
 title: "A vida ascética de rigorosa autonegação"
 tags:
-- majjhima
+- majjhima nikaya
 - sutta-nipāta
 ---
 [CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO](CAPÍTULO%201%20-%20A%20VIDA%20DO%20BUDDHA%20HISTÓRICO.md)
