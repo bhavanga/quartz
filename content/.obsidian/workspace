@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A busca pelo despertar.md",
+            "file": "Majjhima Nikāya.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A busca pelo despertar.md",
+                "file": "Majjhima Nikāya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "bf17311dea5ea95b",
   "lastOpenFiles": [
-    "A busca pelo despertar.md",
+    "Majjhima Nikāya.md",
+    "A vida ascética de rigorosa autonegação.md",
+    "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
+    "_index.md",
+    "private/private-note.md",
+    "notes/showcase.md",
     "notes/setup.md",
     "notes/preview changes.md",
-    "notes/philosophy.md",
-    "notes/config.md",
-    "notes/CJK + Latex Support (测试).md",
-    "notes/images/obsidian-settings.png",
-    "notes/images/google-domains.png",
-    "notes/images/github-pages.png",
-    "notes/images/github-actions.png"
+    "notes/editing.md",
+    "Atingindo estados refinados, sem forma.md"
   ]
 }
