@@ -1,3 +1,6 @@
+---
+title: "Epítetos e qualidades do Buddha"
+---
 **Epítetos e qualidades do Buddha**
 
 **M.1 Explicação dos epítetos do Buddha **
