@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A busca pelo despertar.md",
+            "file": "Concepção, nascimento e juventude.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A busca pelo despertar.md",
+                "file": "Concepção, nascimento e juventude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "bf17311dea5ea95b",
   "lastOpenFiles": [
+    "Concepção, nascimento e juventude.md",
+    "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
+    "_index.md",
     "A busca pelo despertar.md",
+    "Sutta-nipāta.md",
     "A vida ascética de rigorosa autonegação.md",
     "Atingindo estados refinados, sem forma.md",
     "notes/troubleshooting.md",
     "notes/setup.md",
-    "notes/preview changes.md",
-    "notes/editing.md",
-    "notes/custom Domain.md",
-    "notes/config.md",
-    "Majjhima Nikāya.md"
+    "notes/preview changes.md"
   ]
 }
