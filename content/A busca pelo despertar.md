@@ -1,7 +1,8 @@
 ---
 title: "A busca pelo despertar"
 tags:
-- majjhima
+- Majjhima Nikāya
+- Sutta-nipāta
 ---
 [[CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO]]
 

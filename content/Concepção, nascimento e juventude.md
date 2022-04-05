@@ -8,7 +8,7 @@ tags:
 ---
 **Concepção, nascimento e juventude**
 
-**Vi.1 O nascimento maravilhoso de um grande ser**
+## **Vi.1 O nascimento maravilhoso de um grande ser**
 
 *Aqui o Buddha se dirige a Ānanda, o discípulo que atuava como seu principal assistente pessoal. O Buddha já havia dito a ele várias coisas maravilhosas a respeito de sua concepção e nascimento, e agora pede que ele as enuncie de maneira que outros monges possam ouvi-las e se inspirarem com isso.*
 
@@ -64,7 +64,7 @@ Venerável senhor, isso também eu considero como sendo uma qualidade maravilhos
 
 *Acchariya-abbhuta Sutta:* *[[Majjhima Nikāya]]* III.118--120, 122--124, trad. G.A.S. 
 
-**Vi.2 Profecia de sua grandeza futura**
+## **Vi.2 Profecia de sua grandeza futura**
 
 *Esta passagem fala de como as deidades informaram a um sábio a respeito do nascimento do bodhisatta, e como ele entusiasticamente foi vê-lo, predizendo sua futura conquista do despertar*.
 
@@ -102,7 +102,7 @@ Pouco de minha vida permanece; então, haverá morte para mim. Eu não ouvirei o
 
 *Nālaka Sutta: [[Sutta-nipāta]]* 679--694, trad. G.A.S.
 
-**Vi.3 Pais**
+### **Vi.3 Pais**
 
 *Aqui, um monge desperto dá os nomes dos pais do Buddha, com o pai do Buddha, num certo sentido, como sendo o “avô” do monge.*
 
