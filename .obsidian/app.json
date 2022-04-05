@@ -1,8 +1,6 @@
 {
-  "legacyEditor": false,
-  "livePreview": true,
-  "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "legacyEditor": false
 }
