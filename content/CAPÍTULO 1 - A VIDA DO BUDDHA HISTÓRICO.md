@@ -1,6 +1,7 @@
 ---
 title: "☸ CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO"
 ---
+[[TBC]]
 
 CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO
 

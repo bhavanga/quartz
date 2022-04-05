@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b83c91e7a652f28c",
+        "id": "bf17311dea5ea95b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A natureza do Buddha.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A natureza do Buddha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,25 +82,33 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "b83c91e7a652f28c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 234,
-    "collapsed": true
+    "width": 374
   },
-  "active": "b83c91e7a652f28c",
+  "active": "bf17311dea5ea95b",
   "lastOpenFiles": [
-    "A natureza do Buddha.md",
-    "CAPÍTULO 2 - DIFERENTES PERSPECTIVAS SOBRE O BUDDHA.md",
+    "notes/Digital Garden.md",
+    "notes/config.md",
     "_index.md",
-    "notes/setup.md",
-    "notes/preview changes.md",
-    "private/private-note.md",
-    "Atingindo estados refinados, sem forma.md",
+    "Majjhima Nikāya.md",
+    "A relação do Buddha com o Dhamma.md",
+    "CAPÍTULO 2 - DIFERENTES PERSPECTIVAS SOBRE O BUDDHA.md",
     "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
-    "A vida ascética de rigorosa autonegação.md",
-    "A relação do Buddha com o Dhamma.md"
+    "Epítetos e qualidades do Buddha.md",
+    "A natureza do Buddha.md",
+    "notes/setup.md"
   ]
 }
