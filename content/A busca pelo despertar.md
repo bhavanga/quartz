@@ -1,15 +1,13 @@
 ---
 title: "A busca pelo despertar"
+tags:
+- majjhima
 ---
 [[CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO]]
 
 **A busca pelo despertar**
 
-  
-
 **Vi.7 A nobre busca**
-
-  
 
 *Nesta passagem, o Buddha descreve a “nobre busca” por aquilo que está para além das limitações da existência condicionada, e como começou sua busca.*
 

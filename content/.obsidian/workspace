@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "A busca pelo despertar.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "A busca pelo despertar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "bf17311dea5ea95b",
   "lastOpenFiles": [
-    "_index.md",
-    "Epítetos e qualidades do Buddha.md",
-    "notes/Digital Garden.md",
+    "A busca pelo despertar.md",
+    "notes/setup.md",
+    "notes/preview changes.md",
+    "notes/philosophy.md",
     "notes/config.md",
-    "Majjhima Nikāya.md",
-    "A relação do Buddha com o Dhamma.md",
-    "CAPÍTULO 2 - DIFERENTES PERSPECTIVAS SOBRE O BUDDHA.md",
-    "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
-    "A natureza do Buddha.md",
-    "notes/setup.md"
+    "notes/CJK + Latex Support (测试).md",
+    "notes/images/obsidian-settings.png",
+    "notes/images/google-domains.png",
+    "notes/images/github-pages.png",
+    "notes/images/github-actions.png"
   ]
 }
