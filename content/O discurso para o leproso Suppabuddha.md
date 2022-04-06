@@ -1,7 +1,7 @@
 ---
 title: "O discurso para o leproso Suppabuddha"
 tags:
-- 
+- udāna
 ---
 em pali: https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.2.0.0.4.0.2.m
 
