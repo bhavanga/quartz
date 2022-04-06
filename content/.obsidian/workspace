@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "Example Title.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Example Title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "a7a3d57aedd448c0",
   "lastOpenFiles": [
-    "_index.md",
     "Example Title.md",
+    "_index.md",
     "O discurso para o leproso Suppabuddha.md",
     "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
     "Atingindo estados refinados, sem forma.md",

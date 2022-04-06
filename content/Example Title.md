@@ -1,7 +1,6 @@
 ---
 title: "Example Title"
-ref: <referral link>
-cat: <category>
+cat: 
 - TBC
 tags:
 - example-tag
