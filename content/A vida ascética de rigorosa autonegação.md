@@ -6,11 +6,11 @@ tags:
 ---
 [CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO](CAPÍTULO%201%20-%20A%20VIDA%20DO%20BUDDHA%20HISTÓRICO.md)
 
-**A vida ascética de rigorosa autonegação**
+# **A vida ascética de rigorosa autonegação**
 
 *Na próxima fase de sua busca espiritual, Gotama tentou outro método disponível para o desenvolvimento espiritual: a tentativa de pela vontade obter a maestria do corpo e de seus desejos, por meio de tais coisas como jejum e segurar a respiração por longos períodos. Como será visto, mais tarde ele criticará tais coisas.*
 
-**Vi.12 O extremismo de seu ascetismo**
+## **Vi.12 O extremismo de seu ascetismo**
 
 *Nesta passagem, o Buddha descreve como praticou os quatro modos de vida austera que eram então comuns, e são ainda praticados por alguns ascetas indianos não buddhistas.*
 
@@ -58,7 +58,7 @@ Sāriputta, jovens vaqueiros apareceram e cuspiram em mim, urinaram em mim, atir
 
 *Mahā-sīhanāda Sutta: [[Majjhima Nikāya]] I.77--79, trad. G.A.S.*
 
-**Vi.13 A dor em vão**
+## **Vi.13 A dor em vão**
 
 *Nesta passagem, o Buddha explica que, antes de seu período de extremo ascetismo, ele compreendeu que o despertar não era possível para aqueles praticantes religiosos que ainda estavam apegados aos prazeres sensoriais. Tendo compreendido que ele teria que evitar os prazeres sensoriais, ele então se engajou em muitos tipos de práticas ascéticas extremas. Entretanto, embora isso houvesse desenvolvido grande energia e vigilância, e a dor física surgida não afetasse sua mente, isso também trouxe exaustão corporal, e ele compreendeu que isso não levaria ao despertar.*
 
@@ -98,7 +98,7 @@ Mas, com esta prática torturante de austeridades, não obtive nenhuma distinç�
 
 *Mahā-saccaka Sutta: [[Majjhima Nikāya]] I.240--246, trad. G.A.S.*
 
-**Vi.14 Recusando a tentação de Māra**
+## **Vi.14 Recusando a tentação de Māra**
 
 *Nesta passagem, a deidade-tentadora Māra (também conhecida como Namucī e Kaṇha; veja IVi.5 e 7) se aproxima de Gotama (não ainda um Buddha) no final de seu período ascético, incentivando-o a abandonar seu estilo de vida renunciante, e a retornar à vida laica normal pela qual ele poderia gerar karma benéfico por meio dos sacrifícios brahmânicos. Gotama, porém, diz que ele não tinha mais necessidade de qualquer karma benéfico (não que fazer sacrifícios acrescentaria a isso), e que ele estava na direção de atingir o despertar e ensinar a muitos discípulos. Ele tem as cinco faculdades da fé, vigor, vigilância, concentração meditativa e sabedoria, e conquistará o “exército” de Māra das falhas morais e espirituais.*
 

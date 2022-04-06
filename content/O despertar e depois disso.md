@@ -1,11 +1,15 @@
 ---
 title: "O despertar e depois disso"
+tags:
+- Majjhima Nikāya
+- Saṃyutta Nikāya
+- Dhammapada
 ---
 [CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO](CAPÍTULO%201%20-%20A%20VIDA%20DO%20BUDDHA%20HISTÓRICO.md)
 
-**O despertar e depois disso**
+# **O despertar e depois disso**
 
-**Vi.15 Atingir as absorções meditativas, ver vidas passadas e o funcionamento do karma, e atingir a libertação**
+## **Vi.15 Atingir as absorções meditativas, ver vidas passadas e o funcionamento do karma, e atingir a libertação**
 
 *Nesta passagem. o Buddha se lembra de seu despertar/iluminação. Após seu período ascético, e próximo de abandonar, ele se perguntou se haveria outro meio que fosse efetivo para o despertar. Nesse ponto, ele se lembrou de um estado meditativo que havia entrado num momento de sua juventude: a primeira das quatro absorções meditativas (jhānas: ver Th.140), que era feliz e alegre, mas que nada tinha de prazeres sensoriais ou estados negativos da mente. Ele, então, decidiu revistar esse estado como um meio para o despertar. Uma vez que é claro a partir de outras passagens de que isso teria sido atingido por uma prática como da vigilância por meio da respiração, podemos ver que seu caminho agora se tornara um de consciência cuidadosa em relação ao corpo, ao invés do atingimento dos estados informais que transcendiam completamente o corpo, ou do ascetismo extremo que implicava a maestria do corpo pela força e pela vontade. 
 
@@ -45,9 +49,9 @@ Quando foi libertado, veio o conhecimento: “Isto está libertado”. Eu soube 
 
 Aggivessana, esse foi o terceiro conhecimento verdadeiro alcançado por mim na última vigília da noite. A ignorância foi banida e o conhecimento verdadeiro surgiu, a escuridão foi banida e a luz surgiu, como acontece em quem vive de modo diligente, ardente e resoluto. Mas tal sensação agradável que surgiu em mim não invadiu minha mente e permaneceu.
 
-*[[Mahā-saccaka Sutta]]: [[Majjhima Nikāya]] I.246--249, trad. G.A.S.*
+*Mahā-saccaka Sutta: [[Majjhima Nikāya]] I.246--249, trad. G.A.S.*
 
-**Vi.16 Alegria ao encontrar o fim do vagar de vida em vida**
+## **Vi.16 Alegria ao encontrar o fim do vagar de vida em vida**
 
 *Aqui o Buddha expressa alegria ao identificar e cessar o desejo sedento que o dirigia, como a todos os seres, através de repetidos renascimentos, e as dores mentais e físicas que derivavam daí.*
 
@@ -57,7 +61,7 @@ Por muitos nascimentos vaguei no saṃsāra [^cf4], buscando, mas não encontran
 
 *[[Dhammapada]] 153--154, trad. G.A.S.*
 
-**Vi.17 Atingir o nirvāṇa ao alcançar o despertar/iluminação**
+## **Vi.17 Atingir o nirvāṇa ao alcançar o despertar/iluminação**
 
 Monges, procurando o que é saudável, buscando o estado supremo de paz sublime, vaguei por etapas pelo país de Magadha até finalmente chegar a Uruvelā, perto de Senānigama. Lá vi um agradável pedaço de terra, um bosque delicioso com um rio de fluxo claro com margens agradáveis e suaves, e perto de uma aldeia para pedir o alimento.
 
@@ -67,9 +71,9 @@ Monges, então sendo eu mesmo sujeito ao nascimento, tendo entendido o perigo no
 
 O entendimento e a visão surgiram em mim: “Minha libertação é inabalável. Este é o meu último nascimento. Agora não há mais repetição de ser”.
 
-*[[Ariya-pariyesana Sutta]]: [[Majjhima Nikāya]] I.166--167, trad. G.A.S. *
+*Ariya-pariyesana Sutta: [[Majjhima Nikāya]] I.166--167, trad. G.A.S. *
 
-**Vi.18 A redescoberta de um caminho antigo**
+## **Vi.18 A redescoberta de um caminho antigo**
 
 *Nesta passagem o Buddha compara sua descoberta do nobre caminho óctuplo, que leva à cessação da massa dolorosa do envelhecimento e morte, etc., como sendo a redescoberta de um caminho para uma cidade antiga perdida. Como outros Buddhas do passado antigo antes dele, ele havia descoberto o caminho para o nirvāṇa, e ensinado aos outros.*
 
@@ -83,7 +87,7 @@ Tendo conhecido-os diretamente, expliquei-os aos monges, às monjas, aos seguido
 
 *Nagara Sutta: [[Saṃyutta Nikāya]] II.105--107, trad. G.A.S.*
 
-**Vi.19 Honrando o Dhamma**
+## **Vi.19 Honrando o Dhamma**
 
 *Aqui o Buddha percebe que não há pessoa que ele possa louvar que seja superior a ele em termos de qualidades espirituais, mas que ele poderia louvar o Dhamma para o qual ele havia despertado. A deidade Brahmā Sahampati, um “não-retornante” que havia sido ensinado por um Buddha do passado (Saṃyutta Nikāya V.232--233), aparece a ele e confirma que todos os Buddhas louvam o Dhamma.*
 
