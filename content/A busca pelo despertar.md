@@ -6,9 +6,9 @@ tags:
 ---
 [[CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO]]
 
-**A busca pelo despertar**
+# **A busca pelo despertar**
 
-**Vi.7 A nobre busca**
+## **Vi.7 A nobre busca**
 
 *Nesta passagem, o Buddha descreve a “nobre busca” por aquilo que está para além das limitações da existência condicionada, e como começou sua busca.*
 
@@ -30,7 +30,7 @@ Monges, mais tarde, sendo ainda jovem, um jovem de cabelos negros dotado das ben
 
   
 
-**Vi.8 Começando a vida sem lar**
+## **Vi.8 Começando a vida sem lar**
 
 *Esta passagem trata do começo da vida de renúncia e busca espiritual de Gotama.*
 
@@ -41,7 +41,7 @@ Aggivessana, mais tarde, sendo ainda jovem, um jovem de cabelos negros dotado da
 *[[Mahā-saccaka Sutta]]: [[Majjhima Nikāya]] I.240--241, trad. G.A.S.*
 
 
-**Vi.9 Preparando-se para o esforço espiritual**
+## **Vi.9 Preparando-se para o esforço espiritual**
 
 Elogiarei o abandonar o lar, o como alguém com visão abandonou o lar, o como ele, examinando, encontrou deleite em abandonar o lar. 
 

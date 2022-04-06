@@ -6,7 +6,9 @@ tags:
 - Sutta-nipāta
 - Aṅguttara Nikāya
 ---
-**Concepção, nascimento e juventude**
+[CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO](CAPÍTULO%201%20-%20A%20VIDA%20DO%20BUDDHA%20HISTÓRICO.md)
+
+# **Concepção, nascimento e juventude**
 
 ## **Vi.1 O nascimento maravilhoso de um grande ser**
 
@@ -102,7 +104,7 @@ Pouco de minha vida permanece; então, haverá morte para mim. Eu não ouvirei o
 
 *Nālaka Sutta: [[Sutta-nipāta]]* 679--694, trad. G.A.S.
 
-### **Vi.3 Pais**
+## **Vi.3 Pais**
 
 *Aqui, um monge desperto dá os nomes dos pais do Buddha, com o pai do Buddha, num certo sentido, como sendo o “avô” do monge.*
 
@@ -116,7 +118,7 @@ Sou o filho (discípulo) do Buddha, que tolera o que está para além da tolerâ
 
 Versos de Kāḷudāyī: *[[Theragāthā]]* 533--536, trad. G.A.S.
 
-**Vi.4 A família de Gotama**
+## **Vi.4 A família de Gotama**
 
 *Esta passagem se refere ao filho do Buddha, que mais tarde foi ordenado monge por ele e atingiu o estado de arahant. O pai do Buddha permaneceu como laico e atingiu a entrada-na-correnteza, o primeiro nível de nobreza espiritual; sua madrasta (Mahā-pajāpatī) se tornou a primeira monja, e uma arahant; sua esposa também parece ter se tornado uma monja, e uma arahant.*
 
@@ -124,7 +126,7 @@ Eles me conhecem como o “sortudo” Rāhula -- sortudo por duas razões: sou o
 
 Versos de Rāhula: *[[Theragāthā]]*295, trad. G.A.S.
 
-**Vi.5 Juventude extravagante**
+## **Vi.5 Juventude extravagante**
 
 *Esta passagem descreve uma vida inicial de grande conforto, mas, então, prossegue para reflexões sobre envelhecimento, doença e morte que afetam a todos nós.*
 
@@ -138,7 +140,7 @@ Monges, dotado de tal afluência, vivendo em tal refinamento, eu considerei: “
 
 *Sukhumāla Sutta: [[Aṅguttara Nikāya]]* I.145, trad. G.A.S.
 
-**Vi.6 Prazer dos sentidos**
+## **Vi.6 Prazer dos sentidos**
 
 *Nesta passagem, o Buddha reflete sobre os prazeres de sua juventude e, então, sobre as limitações e perigos de tais prazeres.*
 

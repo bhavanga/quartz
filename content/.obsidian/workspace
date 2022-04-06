@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bf17311dea5ea95b",
+        "id": "a7a3d57aedd448c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concepção, nascimento e juventude.md",
+            "file": "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepção, nascimento e juventude.md",
+                "file": "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 374,
     "collapsed": true
   },
-  "active": "bf17311dea5ea95b",
+  "active": "a7a3d57aedd448c0",
   "lastOpenFiles": [
-    "Concepção, nascimento e juventude.md",
-    "A busca pelo despertar.md",
     "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
-    "_index.md",
-    "Sutta-nipāta.md",
-    "A vida ascética de rigorosa autonegação.md",
     "Atingindo estados refinados, sem forma.md",
-    "notes/troubleshooting.md",
-    "notes/setup.md",
-    "notes/preview changes.md"
+    "A busca pelo despertar.md",
+    "Sutta-nipāta.md",
+    "Udāna.md",
+    "O discurso para o leproso Suppabuddha.md",
+    "templates/post.md",
+    "Concepção, nascimento e juventude.md",
+    "_index.md",
+    "A vida ascética de rigorosa autonegação.md"
   ]
 }
