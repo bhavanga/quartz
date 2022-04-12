@@ -12,5 +12,6 @@ CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO
 - [O despertar e depois disso](O%20despertar%20e%20depois%20disso.md)
 - [As conquistas e a natureza do Buddha](As%20conquistas%20e%20a%20natureza%20do%20Buddha.md)
 - [O Buddha como professor](O%20Buddha%20como%20professor.md)
-- 
+- [Elogio ao Buddha](Elogio%20ao%20Buddha.md)
+- [A aparência e o comportamento do Buddha](A%20aparência%20e%20o%20comportamento%20do%20Buddha.md)
 
