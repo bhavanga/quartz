@@ -1,4 +1,4 @@
-baseURL = "https://bhavanga.github.io/tipitaka"
+baseURL = "https://bhavanga.github.io/"
 languageCode = "pt"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
