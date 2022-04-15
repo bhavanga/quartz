@@ -26,7 +26,7 @@ Suponha que, sendo eu mesmo sujeito ao nascimento, conhecendo o perigo naquilo q
 
 Monges, mais tarde, sendo ainda jovem, um jovem de cabelos negros dotado das bençãos da juventude, no primor da juventude, apesar de minha mãe e meu pai desejarem o contrário e chorarem com faces lacrimosas, cortei meus cabelos e minha barba, vesti o hábito amarelo e parti da vida no lar para a vida sem lar [^cf2].
 
-*[[Ariya-pariyesana Sutta]]: [[Majjhima Nikāya]] I.161--163, trad. G.A.S.*
+*Ariya-pariyesana Sutta: Majjhima Nikāya I.161--163, trad. G.A.S.*
 
   
 
@@ -38,7 +38,7 @@ Aggivessana, antes de meu despertar, ainda não totalmente desperto, quando eu e
 
 Aggivessana, mais tarde, sendo ainda jovem, um jovem de cabelos negros dotado das bençãos da juventude, no primor da juventude, apesar de minha mãe e meu pai desejarem o contrário e chorarem com faces lacrimosas, cortei meus cabelos e minha barba, vesti o manto amarelo e segui da vida no lar para a vida sem lar. 
 
-*[[Mahā-saccaka Sutta]]: [[Majjhima Nikāya]] I.240--241, trad. G.A.S.*
+*Mahā-saccaka Sutta: Majjhima Nikāya I.240--241, trad. G.A.S.*
 
 
 ## **Vi.9 Preparando-se para o esforço espiritual**
@@ -81,7 +81,7 @@ Eles são ādiccas por clã, sakyas por nascimento. De tal família eu saí, nã
 
 Tendo visto o perigo nos prazeres sensoriais, tendo visto o abandono do lar como segurança, eu seguirei a fim de fazer o esforço. Nisto minha mente se deleita.
 
-*Pabbajjā Sutta: [[Sutta-nipāta]] 405--424, trad. G.A.S.*
+*Pabbajjā Sutta: Sutta-nipāta 405--424, trad. G.A.S.*
 
   
 

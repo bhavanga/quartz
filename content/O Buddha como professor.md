@@ -50,7 +50,7 @@ Aberto para eles estão as portas da não-morte, que aqueles com ouvidos agora l
 
 Então Brahmā Sahampati, pensando que o Bem-Aventurado havia consentido em seu pedido de ensinar o Dhamma, partiu imediatamente, depois de prestar homenagem ao Bem-Aventurado, mantendo-o à direita.
 
-*Ariya-pariyesana Sutta: [[Majjhima Nikāya]] I.167--169, trad. G.A.S.*
+*Ariya-pariyesana Sutta: Majjhima Nikāya I.167--169, trad. G.A.S.*
 
 ## **Vi.26 O primeiro a receber o ensinamento do Buddha**
 
@@ -132,13 +132,13 @@ Assim, naquele momento, naquele instante, naquele segundo, o grito se espalhou a
 
 Então o Bem-Aventurado pronunciou esta frase inspiradora: “O honorável Koṇḍañña de fato entendeu! O honorável Koṇḍañña de fato entendeu! Desta maneira, o Venerável Koṇḍañña adquiriu o nome de Aññāta (Aquele que Entendeu)-Koṇḍañña.
 
-*Dhamma-cakka-ppavattana Sutta: [[Saṃyutta Nikāya]] V.420--424, trad. P.H.*
+*Dhamma-cakka-ppavattana Sutta: Saṃyutta Nikāya V.420--424, trad. P.H.*
 
 ## **Vi.28 Professor do Dhamma**
 
 Grande rei, um Tathāgata surge no mundo, um Buddha, um arahant, um perfeitamente desperto, dotado de conhecimento e conduta, Afortunado, conhecedor dos mundos, incomparável treinador de pessoas a serem domadas, mestre de deidades e humanos, o desperto, Bem-Aventurado. Ele, tendo realizado isso por seu próprio conhecimento superior, proclama este mundo com suas deidades, māras e brahmās, com seus povos, renunciantes, brāhmaṇas, reis e massas. Ele ensina o Dhamma, que é bom em seu início, bom em seu meio, bom em sua culminação, com o correto significado e fraseado. Ele revela a vida santa perfeitamente completa e purificada.
 
-*Sāmañña-phala Sutta: [[Dīgha Nikāya]] I.62, trad. G.A.S.*
+*Sāmañña-phala Sutta: Dīgha Nikāya I.62, trad. G.A.S.*
 
 
 ## **Vi.29 Enviando sessenta discípulos despertos para ensinar o Dhamma**
@@ -153,7 +153,7 @@ Monges, ensinem o Dhamma que é bom em seu início, bom em seu meio, bom em sua 
 
 Monges, eu também seguirei para Senānigama, em Uruvelā, para ensinar o Dhamma.
 
-*Mahāvagga I.10--11: [[Vinaya]] I.20--21, trad. G.A.S.*
+*Mahāvagga I.10--11: Vinaya I.20--21, trad. G.A.S.*
 
 ## **Vi.30 Garantir que um homem não estivesse com fome a ponto de não entender o Dhamma**
 

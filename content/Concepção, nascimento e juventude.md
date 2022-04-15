@@ -64,7 +64,7 @@ Venerável senhor, isso também eu considero como sendo uma qualidade maravilhos
 
 “Venerável senhor, isso sendo assim, eu também considero isso como sendo uma qualidade maravilhosa e formidável do Bem-Aventurado”.
 
-*Acchariya-abbhuta Sutta:* *[[Majjhima Nikāya]]* III.118--120, 122--124, trad. G.A.S. 
+*Acchariya-abbhuta Sutta:* *Majjhima Nikāya* III.118--120, 122--124, trad. G.A.S. 
 
 ## **Vi.2 Profecia de sua grandeza futura**
 
@@ -102,7 +102,7 @@ Este garoto atingirá o pico do despertar. Vendo o que é supremamente purificad
 
 Pouco de minha vida permanece; então, haverá morte para mim. Eu não ouvirei o Dhamma do incomparável; assim, fico desconsolado, tomado pelo desastre, miserável.
 
-*Nālaka Sutta: [[Sutta-nipāta]]* 679--694, trad. G.A.S.
+*Nālaka Sutta: Sutta-nipāta* 679--694, trad. G.A.S.
 
 ## **Vi.3 Pais**
 
@@ -116,7 +116,7 @@ Ela, Gotamī [^cf14] (Māyā), tendo morrido, tendo partido daqui, agraciada pel
 
 Sou o filho (discípulo) do Buddha, que tolera o que está para além da tolerância, o filho do incomparável Venerável Aṅgīrasa [^cf15]. O senhor, sakiya (Suddhodana), é pai de meu pai; verdadeiramente, o senhor é meu avô, Gotama.
 
-Versos de Kāḷudāyī: *[[Theragāthā]]* 533--536, trad. G.A.S.
+Versos de Kāḷudāyī: *Theragāthā* 533--536, trad. G.A.S.
 
 ## **Vi.4 A família de Gotama**
 
@@ -124,7 +124,7 @@ Versos de Kāḷudāyī: *[[Theragāthā]]* 533--536, trad. G.A.S.
 
 Eles me conhecem como o “sortudo” Rāhula -- sortudo por duas razões: sou o filho do desperto, e sou alguém com a visão das verdades.
 
-Versos de Rāhula: *[[Theragāthā]]*295, trad. G.A.S.
+Versos de Rāhula: *Theragāthā*295, trad. G.A.S.
 
 ## **Vi.5 Juventude extravagante**
 
@@ -138,7 +138,7 @@ Monges, dotado de tal afluência, vivendo em tal refinamento, eu considerei: “
 
 ... \[O mesmo é então dito substituindo “envelhecimento” por “doença” e, então, “morte”, de modo que\] a intoxicação da pessoa saudável pela saúde inteiramente diminuiu. ... a intoxicação da pessoa viva pela vida inteiramente diminuiu.
 
-*Sukhumāla Sutta: [[Aṅguttara Nikāya]]* I.145, trad. G.A.S.
+*Sukhumāla Sutta: Aṅguttara Nikāya* I.145, trad. G.A.S.
 
 ## **Vi.6 Prazer dos sentidos**
 
@@ -156,7 +156,7 @@ Māgandiya, o que você pensa? O homem ficaria com inveja daquele leproso por ca
 
 Vejo outros seres que não são livres da paixão pelos prazeres sensoriais, sendo devorados pelos prazeres sensoriais, queimando com febre pelos prazeres sensoriais, entregando-se aos prazeres sensoriais. Não os invejo, nem me deleito nisso. Por qual razão? Māgandiya, há um deleite afastado dos prazeres sensoriais, afastado dos estados prejudiciais, que supera mesmo o prazer divino. Uma vez que me deleito nisso, não invejo o que é inferior, nem me deleito nisso.
 
-*Māgandiya Sutta:* *[[Majjhima Nikāya]]* I.504--506, trad. G.A.S.
+*Māgandiya Sutta:* *Majjhima Nikāya* I.504--506, trad. G.A.S.
 
 [^cf1]:  Totalmente alerta, totalmente consciente ou completamente sabedor.
 

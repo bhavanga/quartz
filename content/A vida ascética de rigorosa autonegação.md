@@ -1,8 +1,8 @@
 ---
 title: "A vida ascética de rigorosa autonegação"
 tags:
-- majjhima nikaya
-- sutta-nipāta
+- Majjhima Nikāya
+- Sutta-nipāta
 ---
 [CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO](CAPÍTULO%201%20-%20A%20VIDA%20DO%20BUDDHA%20HISTÓRICO.md)
 
@@ -56,7 +56,7 @@ Sāriputta, eu fiz minha cama em um sepulcro apoiado em um esqueleto.
 
 Sāriputta, jovens vaqueiros apareceram e cuspiram em mim, urinaram em mim, atiraram terra em mim, e espetaram varetas nos meus ouvidos. Sāriputta, ainda assim não me lembro de jamais surgir uma mente maligna de ódio contra eles. Sāriputta, tal era a minha permanência na equanimidade.
 
-*Mahā-sīhanāda Sutta: [[Majjhima Nikāya]] I.77--79, trad. G.A.S.*
+*Mahā-sīhanāda Sutta: Majjhima Nikāya I.77--79, trad. G.A.S.*
 
 ## **Vi.13 A dor em vão**
 
@@ -96,7 +96,7 @@ Aggivessana, eu considerei: ‘O que quer que os renunciantes e brāhmaṇas no 
 
 Mas, com esta prática torturante de austeridades, não obtive nenhuma distinção sobre-humana em termos de conhecer e ver, dignos dos nobres. Poderia haver outro caminho para o despertar?
 
-*Mahā-saccaka Sutta: [[Majjhima Nikāya]] I.240--246, trad. G.A.S.*
+*Mahā-saccaka Sutta: Majjhima Nikāya I.240--246, trad. G.A.S.*
 
 ## **Vi.14 Recusando a tentação de Māra**
 
@@ -154,7 +154,7 @@ Não obtendo nada doce, o pássaro foi embora de lá. Como o corvo que atacou a 
 
 Superado pela tristeza, o alaúde caiu da axila de Māra, e esse espírito desencorajado desapareceu naquele mesmo lugar.
 
-*Padhāna Sutta: [[Sutta-nipāta]] 425--449, trad. G.A.S.*
+*Padhāna Sutta: Sutta-nipāta 425--449, trad. G.A.S.*
 
 [^cf1]:  Ou seja, ir apenas a uma casa e receber apenas um bocado de comida.
 

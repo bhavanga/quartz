@@ -1,10 +1,8 @@
 ---
 title: "O discurso para o leproso Suppabuddha"
 tags:
-- udāna
+- Udāna
 ---
-em pali: https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.2.0.0.4.0.2.m
-
 # O discurso para o leproso Suppabuddha
 
 Isto foi ouvido por mim: Certa vez, o Bem-Aventurado residia perto de Rājagaha, no Bosque dos Bambus, no Local de Alimentação dos Esquilos. Então, naquela época, o leproso conhecido como Suppabuddha estava em Rājagaha, um homem pobre, um homem desvalido, um homem miserável.

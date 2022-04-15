@@ -26,7 +26,7 @@ Monges, fui então até Āḷāra Kālāma e disse a ele: “Amigo Kālāma, é 
 
 Monges, assim Āḷāra Kālāma, meu professor, me colocou, seu pupilo, em uma posição igual a ele e me conferiu a mais alta honra. Entretanto, monges, eu considerei: “Este Dhamma não leva ao desencantamento, ao desapaixonamento, à cessação, à paz, ao conhecimento superior, ao despertar, ao nirvāṇa, mas apenas ao renascimento na esfera do nada”. Monges, não estando satisfeito com tal Dhamma, estando desapontado com tal Dhamma, eu parti”.
 
-*Ariya-pariyesana Sutta: [[Majjhima Nikāya]] I.163--165, trad. G.A.S.*
+*Ariya-pariyesana Sutta: Majjhima Nikāya I.163--165, trad. G.A.S.*
 
 ## **Vi.11 A “esfera da nem-percepção-nem-não-percepção” ensinada por Rāma e seu filho**
 
@@ -46,7 +46,7 @@ Monges, fui então até Uddaka, o filho de Rāma, e disse a ele: “Amigo, era d
 
 Monges, assim Uddaka, o filho de Rāma, meu colega monge, me colocou na posição de professor [^cf5] e me conferiu a mais alta honra. Mas eu considerei: “Este Dhamma não leva ao desencantamento, ao desapaixonamento, à cessação, à paz, ao conhecimento superior, ao despertar, ao nirvāṇa, mas apenas ao renascimento na esfera da nem-percepção-nem-não-percepção”. Não estando satisfeito com tal Dhamma, estando desapontado com tal Dhamma, eu parti”.
 
-*Ariya-pariyesana Sutta: [[Majjhima Nikāya]] I.165--166, trad. G.A.S.*
+*Ariya-pariyesana Sutta: Majjhima Nikāya I.165--166, trad. G.A.S.*
 
 [^cf1]:  Isto é, um caminho religioso-filosófico de ensinamento e prática.
 

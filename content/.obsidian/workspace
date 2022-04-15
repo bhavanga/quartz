@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Domando e ensinando aqueles que o rechaçaram ou o ameaçam.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domando e ensinando aqueles que o rechaçaram ou o ameaçam.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,26 +95,48 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "0ca8aa8416a841c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bce170c77f410784",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 374,
-    "collapsed": true
+    "width": 374
   },
   "active": "a7a3d57aedd448c0",
   "lastOpenFiles": [
-    "Domando e ensinando aqueles que o rechaçaram ou o ameaçam.md",
+    "_index.md",
     "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
-    "A aparência e o comportamento do Buddha.md",
-    "Elogio ao Buddha.md",
-    "templates/post.md",
-    "private/private-note.md",
+    "Itivuttaka.md",
     "As conquistas e a natureza do Buddha.md",
     "O Buddha como professor.md",
-    "Example Title.md",
-    "O despertar e depois disso.md"
+    "O discurso para o leproso Suppabuddha.md",
+    "Udāna.md",
+    "A aparência e o comportamento do Buddha.md",
+    "CAPÍTULO 2 - DIFERENTES PERSPECTIVAS SOBRE O BUDDHA.md",
+    "A relação do Buddha com o Dhamma.md"
   ]
 }

@@ -33,6 +33,6 @@ Então certas deidades exclamaram: “Oh, se apenas quatro Buddhas perfeitamente
 
 Dito isto, Sakka disse o rei das deidades: “Senhores, isso é impossível, não pode acontecer, que dois Buddhas perfeitamente despertos surgissem simultaneamente em um único sistema-mundial [^cf1]. Isso não pode ser. Que este Bem-Aventurado continue a viver por muito tempo, por muitos anos por vir, livre de doença e de mal-estar. Isso seria para o benefício de muitos, para a felicidade de muitos, por compaixão pelo mundo, para o benefício e felicidade das deidades e dos humanos!”
 
-*Mahā-govinda Sutta: [[Dīgha Nikāya]] II.222--225, trad. G.A.S.*
+*Mahā-govinda Sutta: Dīgha Nikāya II.222--225, trad. G.A.S.*
 
 [^cf1]:  Veja Th.62 sobre os sistemas-mundiais
