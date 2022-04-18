@@ -5,6 +5,18 @@ depth: -1 # set to -1 to show full graph
 
 ### Global Graph ###
 enableGobalGraph : true # if true it will be shown on index
+enableLegendGG: false
+enableDragGG: true
+enableZoomGG: true
+depthGG: -1 # set to -1 to show full graph
+labelBottomGG: false
+labelBottomGG: true
+scaleGG: 1.7
+repelForceGG: 1
+centerForceGG: 1
+linkDistanceGG: 1
+fontSizeGG: "7px"
+opacityNodeGG: 0.6
 
 paths:
   - /moc: "#4388cc"
