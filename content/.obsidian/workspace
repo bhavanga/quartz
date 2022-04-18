@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,12 +124,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374
+    "width": 318
   },
   "active": "a7a3d57aedd448c0",
   "lastOpenFiles": [
-    "_index.md",
     "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
+    "_index.md",
     "Itivuttaka.md",
     "As conquistas e a natureza do Buddha.md",
     "O Buddha como professor.md",
