@@ -3,6 +3,7 @@
 enableLegend: false
 enableDrag: true
 enableZoom: true
+<<<<<<< HEAD
 depth: 1 # set to -1 to show full graph
 labelBottom: true
 scale: 1.5
@@ -30,6 +31,9 @@ fontSizeGG: "7px"
 opacityNodeGG: 0.6
 
 ### Graph ###
+=======
+depth: -1 # set to -1 to show full graph
+>>>>>>> b88aa312be03ca9ebb91cc3097bbd9a574beec67
 
 paths:
   - /moc: "#4388cc"
