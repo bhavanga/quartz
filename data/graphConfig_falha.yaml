@@ -1,0 +1,39 @@
+### Local Graph ###
+
+enableLegend: false
+enableDrag: true
+enableZoom: true
+<<<<<<< HEAD
+depth: 1 # set to -1 to show full graph
+labelBottom: true
+scale: 1.5
+repelForce: 1
+centerForce: 1
+linkDistance: 1
+fontSize: "7px"
+opacityNode: 0.6
+# could add a variable for full height similar to footerIndex.html
+
+### Global Graph ###
+
+enableGobalGraph : true # if true it will be shown on index
+
+enableLegendGG: false
+enableDragGG: true
+enableZoomGG: true
+depthGG: -1 # set to -1 to show full graph
+labelBottomGG: false
+scaleGG: 1.7
+repelForceGG: 1
+centerForceGG: 1
+linkDistanceGG: 1
+fontSizeGG: "7px"
+opacityNodeGG: 0.6
+
+### Graph ###
+=======
+depth: -1 # set to -1 to show full graph
+>>>>>>> b88aa312be03ca9ebb91cc3097bbd9a574beec67
+
+paths:
+  - /moc: "#4388cc"
