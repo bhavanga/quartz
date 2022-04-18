@@ -15,5 +15,6 @@ CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO
 - [Elogio ao Buddha](Elogio%20ao%20Buddha.md)
 - [A aparência e o comportamento do Buddha](A%20aparência%20e%20o%20comportamento%20do%20Buddha.md)
 - [Domando e ensinando aqueles que o rechaçaram ou o ameaçam](Domando%20e%20ensinando%20aqueles%20que%20o%20rechaçaram%20ou%20o%20ameaçam.md)
+- [[A vida meditativa do Buddha e o louvor pela quietude e contentamento]]
 - 
 
