@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A vida meditativa do Buddha e o louvor pela quietude e contentamento.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A vida meditativa do Buddha e o louvor pela quietude e contentamento.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A vida meditativa do Buddha e o louvor pela quietude e contentamento.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +128,15 @@
   },
   "active": "a7a3d57aedd448c0",
   "lastOpenFiles": [
-    "A vida meditativa do Buddha e o louvor pela quietude e contentamento.md",
-    "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
     "_index.md",
+    "TBC.md",
+    "CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO.md",
+    "A vida meditativa do Buddha e o louvor pela quietude e contentamento.md",
     "Itivuttaka.md",
     "As conquistas e a natureza do Buddha.md",
     "O Buddha como professor.md",
     "O discurso para o leproso Suppabuddha.md",
     "Udāna.md",
-    "A aparência e o comportamento do Buddha.md",
-    "CAPÍTULO 2 - DIFERENTES PERSPECTIVAS SOBRE O BUDDHA.md"
+    "A aparência e o comportamento do Buddha.md"
   ]
 }

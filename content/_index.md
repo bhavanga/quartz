@@ -14,7 +14,9 @@ title: ☸ Tipitaka- a riqueza do Cânone em suas mãos
 
 ### CAPÍTULO 3 - CARACTERÍSTICAS DOS ENSINAMENTOS
 
-  
+
+### Obras Pós-canônicas
+
 
 ---
 
@@ -29,5 +31,9 @@ Duas versões integrais do cânone mais antigo chegaram até os dias de hoje: um
 2. Posteriormente novas obras e comentários foram compostos, alguns associados às escolas antigas, outros ao movimento Mahāyāna.
 
 3. Mais adiante ainda, novas obras e comentários surgiram associados ao movimento Vajrayāna, e incluídos respectivamente em seus próprios cânones.
+
+
+---
+#### Tradutores
 
 Este site contém obras desses três momentos de produção literária traduzidas para o português por Ricardo Sasaki, a menos que indicado o contrário.
