@@ -15,7 +15,8 @@ title: ☸ Tipitaka- a riqueza do Cânone em suas mãos
 ### CAPÍTULO 3 - CARACTERÍSTICAS DOS ENSINAMENTOS
 
 
-### Obra Pós-canônicas
+### Obras Pós-canônicas
+Satya-Siddhi-Śāstra
 
 
 ---
