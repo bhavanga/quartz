@@ -1,3 +1,13 @@
+---
+title: "A vida meditativa do Buddha e o louvor pela quietude e contentamento"
+tags:
+- Saṃyutta Nikāya
+- Majjhima Nikāya
+- Vinaya
+---
+[[CAPÍTULO 1 - A VIDA DO BUDDHA HISTÓRICO]]
+
+
 **A vida meditativa do Buddha e o louvor pela quietude e pelo contentamento**
 
 **Vi.46 Meditando sozinho**
@@ -15,6 +25,7 @@ Suponho que você deseje o triplo céu supremo, a companhia do divino senhor do 
 Não tenho desejos, estou sem apegos, solto; minha visão de todas as coisas foi purificada. Ó brāhmaṇa, tendo alcançado o auspicioso, supremo despertar, autoconfiante, medito sozinho”.
 
 *Kaṭṭhahāra Sutta: Saṃyutta Nikāya I.180--181 \<389--390\>, trad. G.A.S.*
+
 
 **Vi.47 Discípulos calmamente atentos**
 
@@ -39,6 +50,7 @@ E mesmo aqueles seus discípulos que deixam seus companheiros na vida santa e ab
 “Venerável senhor, vejo cinco qualidades no Bem-Aventurado por causa das quais os seus discípulos o honram, respeitam, reverenciam e veneram, e vivem em dependência dele, honrando-o e respeitando-o. Quais são os cinco? Venerável senhor, o Bem-Aventurado come pouco e recomenda comer pouco; isso eu vejo como a primeira qualidade do Bem-Aventurado por causa da qual os seus discípulos o honram, respeitam, reverenciam e veneram, e vivem na dependência dele, honrando-o e respeitando-o. Venerável senhor, o Bem-Aventurado está satisfeito com qualquer tipo de manto e louva o contentamento com qualquer tipo de manto ... o Bem-Aventurado está satisfeito com qualquer tipo de doação de alimento e louva o contentamento com qualquer tipo de doação de alimento ... o Bem-Aventurado está satisfeito com qualquer tipo de lugar de descanso e louva o contentamento com qualquer tipo de lugar de descanso ... o Bem-Aventurado vive afastado e louva o afastamento ... Venerável senhor, essas são as cinco qualidades que vejo no Bem-Aventurado por causa das quais seus discípulos o honram, respeitam, reverenciam e veneram, e vivem na dependência dele, honrando e respeitando-o.
 
 *Mahā-sakuludāyi Sutta: Majjhima Nikāya II.1--7, trad. G.A.S.*
+
 
 **Vi.48 Atraindo a ajuda de um elefante que também buscou a solidão**
 
