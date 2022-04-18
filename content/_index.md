@@ -16,7 +16,7 @@ title: ☸ Tipitaka- a riqueza do Cânone em suas mãos
 
 
 ### Obras Pós-canônicas
-Satya-Siddhi-Śāstra
+[[Satya-Siddhi-Śāstra]]
 
 
 ---
